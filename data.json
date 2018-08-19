@@ -1,0 +1,46 @@
+{
+	"basicdetails":{
+		"image":"Tulips.jpg",
+		"name":"M.swapna priya",
+		"email":"muleswapnapriya@gmail.com",
+		"phone":"1234567890",
+		"address":"12-04-13d,vaddavalli,salivahana nagar,sattenapalli,guntur dt."
+	},
+	"education":[
+		{
+		"course":"b.tech(c.s.e)",
+		"college":"vignans nirula institute of technology and science for women",
+		"percentage":"75%"
+	},
+	{
+		"course":"intermediate(m.p.c)",
+		"college":"santhinikethan junior college",
+		"percentage":"93%"
+	},
+	{
+		"course":"ssc",
+		"school":"little angels eng med school",
+		"percentage":"96%"
+	}
+],
+	"skills":[
+		{
+			"name":"operating systems",
+			"value":"windows,linux,mac"
+		},
+		{
+			"name":"programming languages",
+			"value":"c++,java,python"
+		}
+	],
+	"carrier":{
+		"ca":"iwilldomylevelbestfordoingprojects"
+	},
+	"achievements":[
+			"i got the first prize in running race competition.",
+			"i got second prize in coding."
+		],
+	"descriptiond":{
+		"des":"i there by declare that all the above mentioned information are true."
+	}
+}
